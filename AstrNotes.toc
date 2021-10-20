@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Lecture 1}{2}{}%
+\contentsline {section}{\numberline {2}Lecture 2 - History of Astronomy}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Positions on the sky:}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Movement and Patterns of the Moon}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Other patterns}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Eclipse}{4}{}%
+\contentsline {section}{\numberline {3}Lecture 3-The Retrograde Motion}{4}{}%
+\contentsline {section}{\numberline {4}Lecture 4}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Kepler's Laws}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Newton's Laws}{5}{}%
+\contentsline {section}{\numberline {5}Lecture 5 - Terrestrial and Jovian Planets}{5}{}%
+\contentsline {section}{\numberline {6}Lecture 6-Astroids and Comets}{7}{}%
+\contentsline {section}{\numberline {7}Lecture 7}{8}{}%
