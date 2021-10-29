@@ -1,0 +1,124 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{fullpage}
+\usepackage[top=2cm, bottom=4.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{ulem}
+\usepackage{setspace}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{mathtools}
+\usepackage{siunitx}
+
+
+
+\doublespacing
+
+\title{Week Quiz Reviw}
+\author{Bingan Chen}
+\begin{document}
+    \maketitle
+    \section*{Quiz Materials}
+    \subsection*{Vocabulary}
+    Red is cooler, with longer \(\lambda\) and low frequency / energy; Blue is hotter with shorter \(\lambda\) and high frequency / energy.
+    \begin{center}
+        \includegraphics[scale = 0.5]{light.png}
+    \end{center}
+    \textbf{Why need big telescopes?}
+    \begin{itemize}
+        \item Greater light collection (\emph{photon buckets}) area to see \emph{fainter} objects.
+        \item Greater angular resolution to see object in great \emph{detail}.
+    \end{itemize}
+    \textbf{Ground Based Observations Problems}
+    \begin{itemize}
+        \item Weather - cloudy, rainy conditions can wreck your schedule.
+        \item Distortion - \emph{turbulence} makes the stars appear to twinkle, with low \emph{angular resolution}. 
+        \(\Rightarrow\) use \emph{adaptive optics}
+        \item Light Pollution - made lights reflected by atmosphere \(\Rightarrow\) the night sky becomes brighter.
+        \item Absorption - protect us but not good for science.
+        \begin{center}
+            \includegraphics[scale = 0.2]{absorption.png}
+        \end{center}
+    \end{itemize}
+
+    \subsection*{Luminosity \& Apparent Brightness}
+    \emph{Luminosity} is the total amount of power radiated by a star in space, as measured at some fixed distance from the star's surface.\\
+    \emph{Apprent Brightness} refers to the amount of a star's light which eventually reaches us per unit area hear on Earth.\\
+    \textbf{Relationship}: The total radiation from any star is spread out over a greater and greater surface area.
+    \[\text{App Brightness} = \dfrac{L}{4\pi d^2}\]
+    \subsection*{Distance}
+    \textbf{Parallax} is the angular motion of nearby stars due to the Earth's orbit around the sun. (in \emph{arcseconds})\\
+    While the distance d is in unit of \emph{parsecs}. (\(1 \text{parsecs} = 3.6 \text{Light Years}\))
+    \[d = \dfrac{1}{p}\]
+    \begin{center}
+        \includegraphics[scale  = 0.7]{para.png}
+    \end{center}
+    
+    \subsection*{Temprature from Spectral Lines}
+    We \textit{assume} that all stars have basically the same compostion of H and He. The patterns of \emph{obsorption lines} can reveal the temprature of 
+    the stars \emph{much better than color}.
+    \begin{center}
+        \includegraphics[scale = 0.5]{spec.png}
+    \end{center}
+    Tempratures in decreasing order: 
+    \begin{center}
+        \textbf{O B A F G K M}\\
+        \includegraphics[scale = 0.3]{color.png}
+    \end{center}
+
+    \section*{Lecture Materials}
+    \subsection*{Spectrum}
+    \emph{Visible Spectrum} is only those wavelength between 400 to 800 nanometers.\\
+    All the objects dense enough can \emph{produce} light just like people.\\
+    The peak of light for hotter objects lies at higher energy than it does for colder objects.\\
+    Also, electrons in any atoms respond in a predictable way to \textit{very particular energies}. \emph{Opaque} hot objects making thermal (continuous) spectra, 
+    and \emph{transparent} heated gases making emission (bring line) spectra - interact to produce 
+    a third type of spectra, called \emph{absorption spectra}.
+    \subsubsection*{Doppler Shift}
+    Detected when the pattern of spectral features in an object.
+    \subsubsection*{Telescopes}
+    Reflector (using lenses) \& Refractor (using mirrors)\\
+    Just as I discussed in the first section of this doc.\\
+    The development of longer exposure (more than 0.03 seconds) in the late 1800's allowed astronomers to discover 
+    the fainter objects.
+    \subsection*{Dev of Telescopes}
+    The \emph{Adaptive Optics} can de-twinkle the stars \(\Rightarrow\) monitoring the distortions of light from a known and standard source (a laser). Then 
+    moving the mirrors millions of times per sec to counter the atmospheric distortions.\\
+    Because of the \emph{absorption} of light (only visible radio IR UV reach the ground), the detailed 
+    infrared images could be taken with space based telescopes. \emph{This is not because it moves our instruments any closer to the stars.} They are also free from weather and light 
+    pollution and effect of turbulent atmosphere. 
+    \subsection*{Sun Producing Lights}
+    \subsubsection*{History}
+    In 1795, William Herschel, discoverer of Uranus, and the person who found there are "nonvisible" light, proposed that sun was cool in its interior, and 
+    might support life on its surface. \\
+    \subsubsection*{How it works}
+    The true story of how sun lights besides simply fusing hydrogen into helium\dots \\
+    We need to study more distant stars! What we can measure are
+    \begin{itemize}
+        \item how bright stars appear to be as seen from Earth;
+        \item how much and in what directions they are moving;
+        \item their color (\emph{Spectral Energy Distribution});
+        \item their absorption / emission lines in their spectra.
+    \end{itemize}
+    Combined with some physic values
+    \begin{center}
+        \textit{\textbf{Luminosity, Distance, Mass, Radius, Temperature, Age}}
+    \end{center}
+    After discussed things before, we can
+    \begin{center}
+        Measure the luminosity to get distance;\\
+        Measure the distance to get luminosity.
+    \end{center}
+    distance \(\Rightarrow\) \emph{parallax}.\\
+    \emph{Mass} can be measured by observing the \emph{binary or multiple} star system (using period and distance from each other) \(\Rightarrow\) to time 
+    the details of \emph{ellipse} to know how long it takes for one star to fully move in front of other and how long it takes to fully cross (both size are revealed).\\
+    We comes to the important equation
+    \[L = 4\pi R^{2} \sigma T^4\]
+    We mostly estimate the radius by assuming the luminosity is based on its temprature alone and use the law of thermal radiation. 
+    So the \emph{temprature} is needed because of the effect on \(T^4\).\\
+    \subsubsection*{Temprature of Stars}
+    Roughly on color, precisely through details of \emph{steller spectra}.\\
+    Spetral type is not determined by stars compostion. All of them contains \emph{75\% H}, \emph{23\% He} and \emph{1-2\%} heavier elements. 
+    (1925 by Cecilia Payne-Gaposchkin)\\
+    She showed that the \emph{temprature} of star's atmosphere dictates the types of \emph{ions or molecules} that can exist there. This is with a precision of 10 deg of K, much better than color.
+
+
+\end{document}

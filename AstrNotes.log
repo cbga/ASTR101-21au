@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.25)  27 OCT 2021 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.25)  28 OCT 2021 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -53,53 +53,109 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \ULC@box=\box49
 Package: ulem 2019/11/18
 \ULdepth=\dimen143
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip50
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks17
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count188
+\l__color_backend_stack_int=\count191
 \l__pdf_internal_box=\box50
 ) (/Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.aux)
 \openout1 = `AstrNotes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count189
-\scratchdimen=\dimen144
+\scratchcounter=\count192
+\scratchdimen=\dimen152
 \scratchbox=\box51
-\nofMPsegments=\count190
-\nofMParguments=\count191
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count192
-\MPscratchDim=\dimen145
-\MPnumerator=\count193
-\makeMPintoPDFobject=\count194
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen153
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 660.10394pt, 128.0374pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=660.10394pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
- (/Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.toc
+(Font)              <6> on input line 17.
+(/Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -118,7 +174,7 @@ Package epstopdf Info: Source file: <001.eps>
 (epstopdf)                    date: 2021-10-25 10:41:07
 (epstopdf)                    size: 79587 bytes
 (epstopdf)             Command: <repstopdf --outfile=001-eps-converted-to.pdf 001.eps>
-(epstopdf)             \includegraphics on input line 29.
+(epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -126,15 +182,15 @@ pdfTeX warning: pdflatex (file /Users/bac/Downloads/bks/UW/ASTR101_21/001-eps-co
 <001-eps-converted-to.pdf, id=14, 301.125pt x 391.4625pt>
 File: 001-eps-converted-to.pdf Graphic file (type pdf)
 <use 001-eps-converted-to.pdf>
-Package pdftex.def Info: 001-eps-converted-to.pdf  used on input line 29.
+Package pdftex.def Info: 001-eps-converted-to.pdf  used on input line 31.
 (pdftex.def)             Requested size: 30.11426pt x 39.14853pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
@@ -142,33 +198,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 <002.png, id=22, 352.31625pt x 265.99374pt>
 File: 002.png Graphic file (type png)
 <use 002.png>
-Package pdftex.def Info: 002.png  used on input line 64.
+Package pdftex.def Info: 002.png  used on input line 66.
 (pdftex.def)             Requested size: 35.23369pt x 26.60092pt.
- [4 </Users/bac/Downloads/bks/UW/ASTR101_21/002.png>] [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
+ [4 </Users/bac/Downloads/bks/UW/ASTR101_21/002.png>] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 163--170
 
  []
 
-[8] [9]
-<SpectralLight.png, id=47, 578.16pt x 455.7025pt>
+[7]
+<SpectralLight.png, id=41, 578.16pt x 455.7025pt>
 File: SpectralLight.png Graphic file (type png)
 <use SpectralLight.png>
-Package pdftex.def Info: SpectralLight.png  used on input line 195.
+Package pdftex.def Info: SpectralLight.png  used on input line 197.
 (pdftex.def)             Requested size: 289.07928pt x 227.85068pt.
- [10 </Users/bac/Downloads/bks/UW/ASTR101_21/SpectralLight.png>] (/Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.aux) ) 
+ [8 </Users/bac/Downloads/bks/UW/ASTR101_21/SpectralLight.png>] (/Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.aux) ) 
 Here is how much of TeX's memory you used:
- 1336 strings out of 478994
- 20364 string characters out of 5858183
- 311215 words of memory out of 5000000
- 18841 multiletter control sequences out of 15000+600000
+ 1879 strings out of 478994
+ 28352 string characters out of 5858183
+ 329056 words of memory out of 5000000
+ 19369 multiletter control sequences out of 15000+600000
  408126 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,541b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.pdf (10 pages, 313813 bytes).
+Output written on /Users/bac/Downloads/bks/UW/ASTR101_21/AstrNotes.pdf (8 pages, 312824 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
