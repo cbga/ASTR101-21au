@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.25)  8 NOV 2021 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  10 NOV 2021 10:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/bac/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.tex
-(/Users/bac/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.tex
+**/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.tex
+(/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -402,7 +402,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count297
 \c@mdf@zref@counter=\count298
 Package zref Info: New property: mdf@pagevalue on input line 895.
-) (/Users/bac/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.aux)
+) (/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.aux)
 \openout1 = `astr_review02.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -484,22 +484,27 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/bac/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.aux) ) 
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.aux) ) 
 Here is how much of TeX's memory you used:
- 8356 strings out of 478994
- 160746 string characters out of 5858183
- 586550 words of memory out of 5000000
- 25687 multiletter control sequences out of 15000+600000
- 414514 words of font info for 72 fonts, out of 8000000 for 9000
+ 8373 strings out of 478994
+ 161003 string characters out of 5858184
+ 594550 words of memory out of 5000000
+ 25700 multiletter control sequences out of 15000+600000
+ 416925 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,88p,509b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /Users/bac/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.pdf (1 page, 29690 bytes).
+ 84i,13n,88p,516b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review2/astr_review02.pdf (3 pages, 94806 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
