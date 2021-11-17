@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1637011175 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf" "astr_review03" 1637011176
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.aux" 1637011176 67 1ef9204e575c5392681f20eea05cdd6d ""
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" 1637011175 2496 958da89b332340366768d4e331a1d929 ""
+["pdflatex"] 1637176865 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf" "astr_review03" 1637176866
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.aux" 1637176866 67 3705c6601359574168251466ef4fff2b ""
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" 1637176864 4233 90bcbef8afd78333c7c42bde7f201d0c ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -28,6 +28,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1136768653 768 d7b9a2629a0c353102ad947dc9221d49 ""
@@ -35,6 +36,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2021/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -106,11 +108,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636442805 2724742 b289e573c3d6806821b9f805646db46b ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "astr_review03.aux" 1637011176 67 1ef9204e575c5392681f20eea05cdd6d "pdflatex"
-  "astr_review03.tex" 1637011175 2496 958da89b332340366768d4e331a1d929 ""
+  "astr_review03.aux" 1637176866 67 3705c6601359574168251466ef4fff2b "pdflatex"
+  "astr_review03.tex" 1637176864 4233 90bcbef8afd78333c7c42bde7f201d0c ""
   (generated)
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf"
-  "astr_review03.log"
-  "astr_review03.pdf"
   "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.log"
   "astr_review03.aux"
+  "astr_review03.log"
+  "astr_review03.pdf"
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf"
