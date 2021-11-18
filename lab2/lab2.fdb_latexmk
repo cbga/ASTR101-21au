@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1636927658 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.pdf" "lab2" 1636927659
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.aux" 1636927659 781 b75fb1c52fecdf61d915a2c2081d1607 ""
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.tex" 1636927657 3937 cd3361050563143a5613ee7dfe711cd6 ""
+["pdflatex"] 1637219124 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.pdf" "lab2" 1637219127
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.aux" 1637219125 781 b75fb1c52fecdf61d915a2c2081d1607 ""
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.tex" 1637219124 3938 9f78cac2788660b1b5b707c2318f4e08 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -115,13 +115,13 @@
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "47Tuc.png" 1636927655 242064 b7a79c093406ec3cabee3fd65bd81d88 ""
   "Pleiades.png" 1636927652 188754 0e3973840c2c55d33b9912b85f190722 ""
-  "lab2.aux" 1636927659 781 b75fb1c52fecdf61d915a2c2081d1607 "pdflatex"
-  "lab2.out" 1636927658 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "lab2.tex" 1636927657 3937 cd3361050563143a5613ee7dfe711cd6 ""
+  "lab2.aux" 1637219125 781 b75fb1c52fecdf61d915a2c2081d1607 "pdflatex"
+  "lab2.out" 1637219125 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "lab2.tex" 1637219124 3938 9f78cac2788660b1b5b707c2318f4e08 ""
   (generated)
   "lab2.pdf"
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.log"
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.pdf"
-  "lab2.out"
-  "lab2.log"
   "lab2.aux"
+  "lab2.log"
+  "lab2.out"
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.pdf"
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/lab2/lab2.log"
