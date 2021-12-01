@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1637176865 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf" "astr_review03" 1637176866
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.aux" 1637176866 67 3705c6601359574168251466ef4fff2b ""
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" 1637176864 4233 90bcbef8afd78333c7c42bde7f201d0c ""
+["pdflatex"] 1637294885 "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf" "astr_review03" 1637294887
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.aux" 1637294886 67 3705c6601359574168251466ef4fff2b ""
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.tex" 1637294884 4752 ab734d0e925a410e2f7774da00d9a042 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -108,11 +108,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636442805 2724742 b289e573c3d6806821b9f805646db46b ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "astr_review03.aux" 1637176866 67 3705c6601359574168251466ef4fff2b "pdflatex"
-  "astr_review03.tex" 1637176864 4233 90bcbef8afd78333c7c42bde7f201d0c ""
+  "astr_review03.aux" 1637294886 67 3705c6601359574168251466ef4fff2b "pdflatex"
+  "astr_review03.tex" 1637294884 4752 ab734d0e925a410e2f7774da00d9a042 ""
   (generated)
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.log"
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf"
   "astr_review03.aux"
   "astr_review03.log"
   "astr_review03.pdf"
-  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.pdf"
+  "/Users/binganchen/Downloads/bks/UW/ASTR101_21/review/review3/astr_review03.log"
